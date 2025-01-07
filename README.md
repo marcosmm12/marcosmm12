@@ -11,7 +11,7 @@
 👀 Currently I'm learning by myself a little of many things and languages to see what are my favourite things, but in the future I would like to specialize in something more specific. 
  
  📫 How to reach me:
-- [![GMAIL](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)(marcosmmartinez12@gmail.com)]
+- [![GMAIL](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)](marcosmmartinez12@gmail.com)
 - [LINKEDIN](https://www.linkedin.com/in/marcos-mart%C3%ADnez-mart%C3%ADnez-077603271/)
 <!---
 marcosmm12/marcosmm12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
