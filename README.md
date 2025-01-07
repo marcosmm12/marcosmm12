@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming and software development. At University we mostly have used C and C++, but I also would like to learn other languages for different applications like web pages or mobile apps.
 - 📫 How to reach me:
     - [GMAIL](marcosmmartinez12@gmail.com)
-    - [Linkedin] (https://www.linkedin.com/in/marcos-mart%C3%ADnez-mart%C3%ADnez-077603271/)
+    - [Linkedin](https://www.linkedin.com/in/marcos-mart%C3%ADnez-mart%C3%ADnez-077603271/)
 <!---
 marcosmm12/marcosmm12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
