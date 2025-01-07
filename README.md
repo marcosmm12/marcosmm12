@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Marcos Martínez
   
-👤 I am studying a <strong style="font-weight: 500px;">**Computer Engineering Degree (Sotware Engineering mention)**</strong> at **Polytechnic University of Catalonia (FIB-UPC)**. I only have learnt programming at University, so now I'm starting to learn new languages by myself. Here you will find important projects I have done at university and personal projects or practices that I'm doing to learn an specific language.
+👤 I am studying a <strong style="font-weight: 2em;">**Computer Engineering Degree (Sotware Engineering mention)**</strong> at **Polytechnic University of Catalonia (FIB-UPC)**. I only have learnt programming at University, so now I'm starting to learn new languages by myself. Here you will find important projects I have done at university and personal projects or practices that I'm doing to learn an specific language.
 
 📋 Programming languages that I know:
 - **C and C++**: I have learnt them at University. They are the main language we use, so I have a stronger knowledge than in other languages.
