@@ -11,6 +11,7 @@
 👀 Currently I'm learning by myself a little of many things and languages to see what are my favourite things, but in the future I would like to specialize in something more specific. 
  
  📫 How to reach me:
+ 
 [![GMAIL](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:marcosmmartinez12@gmail.com)
 [![LINKEDIN](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/marcos-mart%C3%ADnez-mart%C3%ADnez-077603271/)
 <!---
