@@ -4,7 +4,7 @@
 
 📋 Programming languages that I know:
 - **C and C++**: I have learnt them at University. They are the main language we use, so I have a stronger knowledge than in other languages.
-- **Java**: We are doing a entire project in this language at University. The project doesn't use any framework, it's only in Java. That's the reason why I'm new into the language but I have a good knowledge of the basic things (I will upload the project in a repository when we finish the subject).
+- **Java**: We have done an entire project in this language at University. The project doesn't use any framework, it's only in Java. That's the reason why I'm new into the language but I have a good knowledge of the basic things (the project is in the repository Supermarket-App).
 - **HTML, Javascript and CSS**: I have learnt a little by myself. It's a very basic level as I only have done some projects following a guide.
 - **React**: I have done only one project in this language. My knowledge of it is very very basic.
 
